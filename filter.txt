@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Homepage: https://github.com/green1052/GreenList
-! License: https://github.com/green1052/GreenList/blob/main/LICENSE
+! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: YousList-KR
 ! Description: 한국어 웹 사이트 필터
 ! Expires: 1 days
