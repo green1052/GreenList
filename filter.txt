@@ -13,9 +13,9 @@
 ! 앱
 !#if (adguard_app_android || adguard_app_ios)
 ||cf.joara.com/banner_file^$app=com.joara.mobile
-!endif
+!#endif
 
 ! 앱 예외
 !#if (adguard_app_android || adguard_app_ios)
 @@||arca.live/api/pagead^$app=live.arca.android
-!endif
+!#endif
