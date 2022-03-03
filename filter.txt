@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Homepage: https://github.com/green1052/GreenList
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
-! Title: YousList-KR
+! Title: GreenList
 ! Description: 한국어 웹 사이트 필터
 ! Expires: 1 days
 ! Version: 20220304
@@ -10,12 +10,13 @@
 @@||www.google.com/maps/embed^$stealth
 @@||search.namu.wiki/api/ranking$domain=arca.live
 
-! 앱
+
 !#if (adguard_app_android || adguard_app_ios)
+! 앱
 ||cf.joara.com/banner_file^$app=com.joara.mobile
 !#endif
 
-! 앱 예외
 !#if (adguard_app_android || adguard_app_ios)
+! 앱 예외
 @@||arca.live/api/pagead^$app=live.arca.android
 !#endif
