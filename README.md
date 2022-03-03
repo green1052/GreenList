@@ -7,5 +7,5 @@
 해당 URL을 프로그램에 붙여넣어 적용하세요
 
 ```
-https://github.com/green1052/GreenList/raw/main/filter.txt
+https://github.com/green1052/GreenList/raw/master/filter.txt
 ```
