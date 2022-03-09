@@ -10,13 +10,12 @@
 @@||www.google.com/maps/embed^$stealth
 @@||search.namu.wiki/api/ranking$domain=arca.live
 
-
-!#if (adguard_app_android || adguard_app_ios)
 ! 앱
+!#if (adguard_app_android || adguard_app_ios)
 ||cf.joara.com/banner_file^$app=com.joara.mobile
 !#endif
 
-!#if (adguard_app_android || adguard_app_ios)
 ! 앱 예외
+!#if (adguard_app_android || adguard_app_ios)
 @@||arca.live/api/pagead^$app=live.arca.android
 !#endif
