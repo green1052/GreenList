@@ -8,7 +8,6 @@
 
 ! 예외
 @@||www.google.com/maps/embed^$stealth
-@@||search.namu.wiki/api/ranking$domain=arca.live
 
 ! 앱
 !#if (adguard_app_android || adguard_app_ios)
