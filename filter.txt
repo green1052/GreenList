@@ -4,7 +4,7 @@
 ! Title: GreenList
 ! Description: 한국어 웹 사이트 필터
 ! Expires: 1 days
-! Version: 20220317
+! Version: 20220319
 
 ! 예외
 @@||www.google.com/maps/embed^$stealth
@@ -14,3 +14,5 @@
 ||cf.joara.com/banner_file^$app=com.joara.mobile
 ||img.samsungapps.com/display^$app=com.samsung.android.game.gamehome
 !#endif
+
+youtube.com###clarify-box
