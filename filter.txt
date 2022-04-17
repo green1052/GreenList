@@ -4,9 +4,10 @@
 ! Title: GreenList
 ! Description: 한국어 웹 사이트 필터
 ! Expires: 1 days
-! Version: 20220405
+! Version: 20220418
 
 ! 공용
+www.instiz.net#$?#.backlogo { background-image: none !important; }
 youtube.com###clarify-box
 ||novelpia.com/js/jdetects.min.js
 ||novelpia.com/page/block^$document
