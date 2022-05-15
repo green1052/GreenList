@@ -4,7 +4,7 @@
 ! Title: GreenList
 ! Description: 한국어 웹 사이트 필터
 ! Expires: 1 days
-! Version: 20220509
+! Version: 20220515
 
 ! 공용
 youtube.com###clarify-box
@@ -12,14 +12,18 @@ youtube.com###clarify-box
 ||novelpia.com/page/block^$document
 ! 공용 끝
 
-! 예외
-!#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
-@@||www.google.com/maps/embed^$stealth
-!#endif
-! 예외 끝
+! 공용 예외
+www.naver.com#@#div.column_fix_wrap > div#shopcast
+! 공용 끝
 
 ! 앱
 !#if (adguard_app_android || adguard_app_ios)
 ||cf.joara.com/banner_file^$app=com.joara.mobile
 !#endif
 ! 앱 끝
+
+! 앱 예외
+!#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
+@@||www.google.com/maps/embed^$stealth
+!#endif
+! 앱 예외 끝
