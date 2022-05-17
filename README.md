@@ -1,6 +1,6 @@
 # GreenList
 
-한국어 웹 사이트 필터
+개인용 AdGuard 필터
 
 # 설치
 
