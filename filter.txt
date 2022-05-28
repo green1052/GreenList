@@ -4,7 +4,7 @@
 ! Title: GreenList
 ! Description: 한국어 웹 사이트 필터
 ! Expires: 1 days
-! Version: 20220521
+! Version: 20220529
 
 ! 공용
 youtube.com###clarify-box
@@ -14,7 +14,6 @@ youtube.com###clarify-box
 
 ! 공용 예외
 www.naver.com#@#div.column_fix_wrap > div#shopcast
-arca.live#@#div#newsRank
 ! 공용 끝
 
 ! 앱
