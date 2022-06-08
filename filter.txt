@@ -1,10 +1,9 @@
-[Adblock Plus 2.0]
 ! Homepage: https://github.com/green1052/GreenList
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Description: 한국어 웹 사이트 필터
 ! Expires: 1 days
-! Version: 20220609
+! Version: 2022.609.0
 
 ! 공용
 youtube.com###clarify-box
@@ -27,5 +26,10 @@ www.naver.com#@#div.column_fix_wrap > div#shopcast
 !#endif
 ! 앱 예외 끝
 
+auction.co.kr#%#//scriptlet("set-constant", "document.ondragstart", "undefined")
+auction.co.kr#%#//scriptlet("set-constant", "document.onselectstart", "undefined")
 auction.co.kr#%#//scriptlet("set-constant", "document.oncontextmenu", "undefined")
+
+auction.co.kr##+js(set, document.ondragstart, undefined)
+auction.co.kr##+js(set, document.onselectstart, undefined)
 auction.co.kr##+js(set, document.oncontextmenu, undefined)
