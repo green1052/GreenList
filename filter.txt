@@ -3,7 +3,7 @@
 ! Title: GreenList
 ! Description: 한국어 웹 사이트 필터
 ! Expires: 1 days
-! Version: 2022.611.1
+! Version: 2022.614.0
 
 ! 공용
 youtube.com###clarify-box
@@ -31,6 +31,7 @@ www.naver.com#@#div.column_fix_wrap > div#shopcast
 
 ! AdGuard scriptlet
 !#if (!adguard_ext_android_cb)
+novelpia.com#%#//scriptlet("set-constant", "get_ad_banner", "noopFunc")
 auction.co.kr#%#//scriptlet("set-constant", "document.ondragstart", "undefined")
 auction.co.kr#%#//scriptlet("set-constant", "document.onselectstart", "undefined")
 auction.co.kr#%#//scriptlet("set-constant", "document.oncontextmenu", "undefined")
@@ -38,6 +39,7 @@ auction.co.kr#%#//scriptlet("set-constant", "document.oncontextmenu", "undefined
 ! AdGuard scriptlet 끝
 
 ! uBlock Origin scriptlet
+novelpia.com##+js(set, get_ad_banner, noopFunc)
 auction.co.kr##+js(set, document.ondragstart, undefined)
 auction.co.kr##+js(set, document.onselectstart, undefined)
 auction.co.kr##+js(set, document.oncontextmenu, undefined)
