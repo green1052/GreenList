@@ -3,7 +3,7 @@
 ! Title: GreenList
 ! Description: 한국어 웹 사이트 필터
 ! Expires: 1 days
-! Version: 2022.706.0
+! Version: 2022.711.0
 
 ! 공용
 youtube.com###clarify-box
@@ -12,6 +12,8 @@ youtube.com###clarify-box
 ||arca.live/static/assets/js/adult.min.js
 ||t1.daumcdn.net/tiara/js/v1/tiara.min.js
 ||t1.daumcdn.net/tistory_admin/assets/blog/tistory-*/blogs/script/tiara/tiara.min.js
+||wsgadd.kt.com/nocache/s_youthProtect.html$all
+||wsgadd.kt.com/nocache/s_smishing.html$all
 ! 공용 끝
 
 ! 공용 예외
