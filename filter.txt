@@ -3,41 +3,15 @@
 ! Title: GreenList
 ! Description: 한국어 웹 사이트 필터
 ! Expires: 1 days
-! Version: 2022.917.0
+! Version: 2022.1129.0
 
-! 공용
 youtube.com###clarify-box
 ||novelpia.com/js/jdetects.min.js
 ||novelpia.com/page/block^$document
 ||arca.live/static/assets/js/adult.min.js
 ||wsgadd.kt.com/nocache/s_youthProtect.html$all
 ||wsgadd.kt.com/nocache/s_smishing.html$all
-! 공용 끝
 
-! 공용 예외
-! 공용 끝
-
-! 앱
-!#if (adguard_app_android || adguard_app_ios)
-!#endif
-! 앱 끝
-
-! 앱 예외
 !#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
 @@||www.google.com/maps/embed^$stealth
 !#endif
-! 앱 예외 끝
-
-! AdGuard scriptlet
-!#if (!adguard_ext_android_cb)
-auction.co.kr#%#//scriptlet("set-constant", "document.ondragstart", "undefined")
-auction.co.kr#%#//scriptlet("set-constant", "document.onselectstart", "undefined")
-auction.co.kr#%#//scriptlet("set-constant", "document.oncontextmenu", "undefined")
-!#endif
-! AdGuard scriptlet 끝
-
-! uBlock Origin scriptlet
-auction.co.kr##+js(set, document.ondragstart, undefined)
-auction.co.kr##+js(set, document.onselectstart, undefined)
-auction.co.kr##+js(set, document.oncontextmenu, undefined)
-! uBlock Origin scriptlet 끝
