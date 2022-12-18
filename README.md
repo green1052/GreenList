@@ -7,7 +7,7 @@
 GreenList:
 
 ```
-https://github.com/green1052/GreenList/raw/master/filter.txt
+https://raw.githubusercontent.com/green1052/GreenList/master/filter.txt
 ```
 
 GreenList DNS:
