@@ -4,8 +4,14 @@
 
 # 설치
 
-해당 URL을 프로그램에 붙여넣어 적용하세요
+GreenList:
 
 ```
 https://github.com/green1052/GreenList/raw/master/filter.txt
+```
+
+GreenList DNS:
+
+```
+https://raw.githubusercontent.com/green1052/GreenList/master/dns.txt
 ```
