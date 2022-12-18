@@ -1,0 +1,6 @@
+||1412.rest^$dnsrewrite=104.16.181.45
+||hiyobi.me^$dnsrewrite=104.16.181.45
+||hellven.net^$dnsrewrite=104.16.181.45
+||tcafe2a.com^$dnsrewrite=104.16.181.45
+||donmai.us^$dnsrewrite=104.16.181.45
+/(new|mana|book)toki\d*\.(com|net|org)/$dnsrewrite=104.16.181.45
