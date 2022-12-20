@@ -2,13 +2,58 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2022.1219.1
+! Version: 2022.1221.0
 
 ||1412.rest^$dnsrewrite=104.16.181.45
 ||hiyobi.me^$dnsrewrite=104.16.181.45
 ||hellven.net^$dnsrewrite=104.16.181.45
 ||tcafe2a.com^$dnsrewrite=104.16.181.45
 ||donmai.us^$dnsrewrite=104.16.181.45
+||newtoki.info^$dnsrewrite=104.16.181.45
+||img.imimggggg87878.com^$dnsrewrite=104.16.181.45
+||toonimg.com^$dnsrewrite=104.16.181.45
+||raindrop.live^$dnsrewrite=104.16.181.45
+||arkbooks.net^$dnsrewrite=104.16.181.45
+||ddbb.club^$dnsrewrite=104.16.181.45
+||etoland.co.kr^$dnsrewrite=104.16.181.45
+||scrbr.net^$dnsrewrite=104.16.181.45
+||ccfan.club^$dnsrewrite=104.16.181.45
+||rofan.day^$dnsrewrite=104.16.181.45
+||iroha.blue^$dnsrewrite=104.16.181.45
+||robelltory.com^$dnsrewrite=104.16.181.45
+
 /(new|mana|book)toki\d*\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d*\.com/$dnsrewrite=104.16.181.45
+/copytoon\d*\.com/$dnsrewrite=104.16.181.45
+/toonsarang\d*\.com/$dnsrewrite=104.16.181.45
+/duri\d*\.com/$dnsrewrite=104.16.181.45
+/toonkor\d*\.com/$dnsrewrite=104.16.181.45
+/tkr\d*\.com/$dnsrewrite=104.16.181.45
+/torrentrj\d*\.com/$dnsrewrite=104.16.181.45
+/torrenttt\d*\.com/$dnsrewrite=104.16.181.45
+/torrentsee\d*\.com/$dnsrewrite=104.16.181.45
+/torrentnx\d*\.com/$dnsrewrite=104.16.181.45
+/torrentbam\d*\.com/$dnsrewrite=104.16.181.45
+/torrentbot\d*\.com/$dnsrewrite=104.16.181.45
+/torrentreel\d*\.site/$dnsrewrite=104.16.181.45
+/torrentten\d*\.com/$dnsrewrite=104.16.181.45
+/bbigtorrent\d*\.com/$dnsrewrite=104.16.181.45
+/torrentzota\d*\.com/$dnsrewrite=104.16.181.45
+/torrenttip\d*\.com/$dnsrewrite=104.16.181.45
+/torrentsome\d*\.com/$dnsrewrite=104.16.181.45
+/torrentcar\d*\.com/$dnsrewrite=104.16.181.45
+/torrentcool\d*\.com/$dnsrewrite=104.16.181.45
+torrentcall\d*\.com/$dnsrewrite=104.16.181.45
+/torrentdia\d*\.com/$dnsrewrite=104.16.181.45
+/torrentqq\d*\.com/$dnsrewrite=104.16.181.45
+/torrentmode\d*\.com/$dnsrewrite=104.16.181.45
+/torrenttop\d*\.com/$dnsrewrite=104.16.181.45
+/etorrent\d*\.com/$dnsrewrite=104.16.181.45
+/torrent-who\d\.me/$dnsrewrite=104.16.181.45
+/skytoon\d\.com/$dnsrewrite=104.16.181.45
+/allall\d\.com/$dnsrewrite=104.16.181.45
+/wtbox\d\.xyz/$dnsrewrite=104.16.181.45
+/tvbox\d\.xyz/$dnsrewrite=104.16.181.45
+/ydbox\d\.com/$dnsrewrite=104.16.181.45
+
 @@||graph.oculus.com^$important
