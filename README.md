@@ -4,13 +4,13 @@
 
 # 설치
 
-## GreenList:
+## GreenList
 
 ```
 https://raw.githubusercontent.com/green1052/GreenList/master/filter.txt
 ```
 
-## GreenList DNS:
+## GreenList DNS
 
 망 사용료 문제로 Cloudflare Enterprise 요금제를 사용하지 않는 웹사이트가 대한민국 서버가 아닌 곳을 경유하는 걸 방지합니다.
 
