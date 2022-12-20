@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2022.1221.0
+! Version: 2022.1221.1
 
 ||1412.rest^$dnsrewrite=104.16.181.45
 ||hiyobi.me^$dnsrewrite=104.16.181.45
@@ -21,6 +21,10 @@
 ||rofan.day^$dnsrewrite=104.16.181.45
 ||iroha.blue^$dnsrewrite=104.16.181.45
 ||robelltory.com^$dnsrewrite=104.16.181.45
+||hisoki.me^$dnsrewrite=104.16.181.45
+||1004hit.com^$dnsrewrite=104.16.181.45
+||1004cdn.com^$dnsrewrite=104.16.181.45
+||k258059.net^$dnsrewrite=104.16.181.45
 
 /(new|mana|book)toki\d*\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d*\.com/$dnsrewrite=104.16.181.45
@@ -49,11 +53,18 @@ torrentcall\d*\.com/$dnsrewrite=104.16.181.45
 /torrentmode\d*\.com/$dnsrewrite=104.16.181.45
 /torrenttop\d*\.com/$dnsrewrite=104.16.181.45
 /etorrent\d*\.com/$dnsrewrite=104.16.181.45
-/torrent-who\d\.me/$dnsrewrite=104.16.181.45
-/skytoon\d\.com/$dnsrewrite=104.16.181.45
-/allall\d\.com/$dnsrewrite=104.16.181.45
-/wtbox\d\.xyz/$dnsrewrite=104.16.181.45
-/tvbox\d\.xyz/$dnsrewrite=104.16.181.45
-/ydbox\d\.com/$dnsrewrite=104.16.181.45
+/torrent-who\d*\.me/$dnsrewrite=104.16.181.45
+/skytoon\d*\.com/$dnsrewrite=104.16.181.45
+/allall\d*\.com/$dnsrewrite=104.16.181.45
+/wtbox\d*\.xyz/$dnsrewrite=104.16.181.45
+/tvbox\d*\.xyz/$dnsrewrite=104.16.181.45
+/ydbox\d*\.com/$dnsrewrite=104.16.181.45
+! TODO: 이미지 서버 누락
+/wftoon\d*\.com/$dnsrewrite=104.16.181.45
+/wfwf\d*\.com/$dnsrewrite=104.16.181.45
+!
+/mingk\d*\.com/$dnsrewrite=104.16.181.45
+/funbe\d*\.com/$dnsrewrite=104.16.181.45
+/hodu\d*\.net/$dnsrewrite=104.16.181.45
 
 @@||graph.oculus.com^$important
