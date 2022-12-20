@@ -10,4 +10,5 @@
 ||tcafe2a.com^$dnsrewrite=104.16.181.45
 ||donmai.us^$dnsrewrite=104.16.181.45
 /(new|mana|book)toki\d*\.(com|net|org)/$dnsrewrite=104.16.181.45
+/marumaru\d*\.com/$dnsrewrite=104.16.181.45
 @@||graph.oculus.com^$important
