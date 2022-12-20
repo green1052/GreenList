@@ -27,7 +27,6 @@
 ||k258059.net^$dnsrewrite=104.16.181.45
 ||bunkr.ru^$dnsrewrite=104.16.181.45
 ||rule34.xxx^$dnsrewrite=104.16.181.45
-||rule34hentai.net^$dnsrewrite=104.16.181.45
 
 /(new|mana|book)toki\d*\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d*\.com/$dnsrewrite=104.16.181.45
