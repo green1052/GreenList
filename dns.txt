@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2022.1221.2
+! Version: 2022.1221.3
 
 ||1412.rest^$dnsrewrite=104.16.181.45
 ||hiyobi.me^$dnsrewrite=104.16.181.45
@@ -25,6 +25,7 @@
 ||1004hit.com^$dnsrewrite=104.16.181.45
 ||1004cdn.com^$dnsrewrite=104.16.181.45
 ||k258059.net^$dnsrewrite=104.16.181.45
+||bunkr.ru^$dnsrewrite=104.16.181.45
 
 /(new|mana|book)toki\d*\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d*\.com/$dnsrewrite=104.16.181.45
