@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2023.0103.0
+! Version: 2023.0103.1
 
 ||1412.rest^$dnsrewrite=104.16.181.45
 ||hiyobi.me^$dnsrewrite=104.16.181.45
@@ -35,6 +35,27 @@
 ||player*.nvod.org^$dnsrewrite=104.16.181.45
 ||player-js.nvod.org^$dnsrewrite=104.16.181.45
 ||pull-api*.nvod.org^$dnsrewrite=104.16.181.45
+! mobikf.ncctvgroup.com
+||ani1c1.top^$dnsrewrite=104.16.181.45
+||comm.anikf.app^$dnsrewrite=104.16.181.45
+||kfani.me^$dnsrewrite=104.16.181.45
+! moeni.net
+||moeni.net^$dnsrewrite=104.16.181.45
+||shinsekai.me^$dnsrewrite=104.16.181.45
+||shinsekai.co^$dnsrewrite=104.16.181.45
+||movcdns.xyz^$dnsrewrite=104.16.181.45
+!
+! ohli24.net, aniweek.com, kormovie.com
+||ohli24.net^$dnsrewrite=104.16.181.45
+||aniweek.com^$dnsrewrite=104.16.181.45
+||kormovie.com^$dnsrewrite=104.16.181.45
+||cdn*-xdoodle.xyz^$dnsrewrite=104.16.181.45
+||cdn*-nydoodle.xyz^$dnsrewrite=104.16.181.45
+||cdn*-catcdn.top^$dnsrewrite=104.16.181.45
+||pigplayer.com^$dnsrewrite=104.16.181.45
+||cdn*-pigplayer.xyz^$dnsrewrite=104.16.181.45
+||ndoodle.xyz^$dnsrewrite=104.16.181.45
+||cdn*-ndoodle.xyz^$dnsrewrite=104.16.181.45
 !
 /(new|mana|book)toki\d*\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d*\.com/$dnsrewrite=104.16.181.45
