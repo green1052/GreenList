@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2023.0103.1
+! Version: 2023.0117.0
 
 ||1412.rest^$dnsrewrite=104.16.181.45
 ||hiyobi.me^$dnsrewrite=104.16.181.45
@@ -57,6 +57,7 @@
 ||ndoodle.xyz^$dnsrewrite=104.16.181.45
 ||cdn*-ndoodle.xyz^$dnsrewrite=104.16.181.45
 !
+||bgpview.io^$dnsrewrite=104.16.181.45
 /(new|mana|book)toki\d*\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d*\.com/$dnsrewrite=104.16.181.45
 /copytoon\d*\.com/$dnsrewrite=104.16.181.45
