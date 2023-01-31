@@ -22,7 +22,7 @@ jobs:
           node-version: latest
 
       - name: Build
-        run: node dns/build.js
+        run: (cd dns && node build.js)
 
       - name: Push
         uses: EndBug/add-and-commit@v9
