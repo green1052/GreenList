@@ -22,7 +22,7 @@ for (const host of hosts.split(EOL)) {
         continue;
     }
 
-    buildRules.push(`||${host}$dnsrewrite=${cloudflareIp}`);
+    buildRules.push(`||${host}^$dnsrewrite=${cloudflareIp}`);
 }
 
 fs.writeFileSync("../dns.txt", `${headers}${EOL}${buildRules.join(EOL)}`);
