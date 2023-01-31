@@ -2,9 +2,11 @@ const fs = require("fs");
 const {EOL} = require("os");
 
 const cloudflareIp = "104.16.181.45";
+
 const headers = fs.readFileSync("./headers.txt", "utf8");
 const rules = fs.readFileSync("./rules.txt", "utf8");
 const hosts = fs.readFileSync("./hosts.txt", "utf8");
+
 const buildRules = [];
 
 for (const rule of rules.split(EOL)) {
