@@ -1,0 +1,5 @@
+! Homepage: https://github.com/green1052/GreenList
+! License: https://github.com/green1052/GreenList/raw/master/LICENSE
+! Title: GreenList DNS
+! Expires: 1 days
+! Version: 2023.0117.1
