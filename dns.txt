@@ -6,6 +6,7 @@
 
 @@||graph.oculus.com^$important
 ||warning.or.kr^
+||saucenao.com^$dnsrewrite=104.16.181.45
 ||1412.rest^$dnsrewrite=104.16.181.45
 ||hiyobi.me^$dnsrewrite=104.16.181.45
 ||hellven.net^$dnsrewrite=104.16.181.45
