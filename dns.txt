@@ -2,7 +2,8 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2023.0131.1
+! Version: 2023.0208.0
+
 @@||graph.oculus.com^$important
 ||warning.or.kr^
 ||1412.rest^$dnsrewrite=104.16.181.45
