@@ -15,9 +15,9 @@
 !#endif
 
 # !#if ext_ublock
-novelpia.com##+js(set, get_ad_banner, noopFunc)
+##novelpia.com##+js(set, get_ad_banner, noopFunc)
 # !#endif
 
 # !#if (adguard && !adguard_ext_android_cb)
-novelpia.com#%#//scriptlet("set-constant", "get_ad_banner", "noopFunc")
+##novelpia.com#%#//scriptlet("set-constant", "get_ad_banner", "noopFunc")
 # !#endif
