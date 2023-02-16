@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2023.0103.0
+! Version: 2023.0217.0
 
 ||novelpia.com/js/jdetects.min.js
 ||novelpia.com/page/block^$document
@@ -15,9 +15,9 @@
 !#endif
 
 # !#if ext_ublock
-# arca.live##+js(set, oopeHandler, noopFunc)
+novelpia.com##+js(set, get_ad_banner, noopFunc)
 # !#endif
 
 # !#if (adguard && !adguard_ext_android_cb)
-# arca.live#%#//scriptlet("set-constant", "oopeHandler", "noopFunc")
+novelpia.com#%#//scriptlet("set-constant", "get_ad_banner", "noopFunc")
 # !#endif
