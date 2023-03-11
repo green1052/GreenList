@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2023.0209.0
+! Version: 2023.0311.0
 
 @@||graph.oculus.com^$important
 ||warning.or.kr^
@@ -10,7 +10,6 @@
 ||hasha.me^$dnsrewrite=104.16.181.45
 ||saucenao.com^$dnsrewrite=104.16.181.45
 ||1412.rest^$dnsrewrite=104.16.181.45
-||hiyobi.me^$dnsrewrite=104.16.181.45
 ||hellven.net^$dnsrewrite=104.16.181.45
 ||tcafe2a.com^$dnsrewrite=104.16.181.45
 ||donmai.us^$dnsrewrite=104.16.181.45
