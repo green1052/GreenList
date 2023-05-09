@@ -30,11 +30,11 @@ bgpview.io
 v-front.de
 
 ! noonoo22.tv
-images.nstatic.org
-etc.nstatic.org
-player*.nvod.org
-player-js.nvod.org
-pull-api*.nvod.org
+! images.nstatic.org
+! etc.nstatic.org
+! player*.nvod.org
+! player-js.nvod.org
+! pull-api*.nvod.org
 !
 
 ! mobikf.ncctvgroup.com
@@ -61,6 +61,11 @@ pigplayer.com
 cdn*-pigplayer.xyz
 ndoodle.xyz
 cdn*-ndoodle.xyz
+!
+
+! zzap02.tv
+zzap*.tv
+plyr.io
 !
 
 /(new|mana|book)toki\d*\.(com|net|org)/
