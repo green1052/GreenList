@@ -28,6 +28,7 @@ cs.rin.ru
 kioskloud.io
 bgpview.io
 v-front.de
+scpslgame.com
 
 ! noonoo22.tv
 ! images.nstatic.org
@@ -63,7 +64,7 @@ ndoodle.xyz
 cdn*-ndoodle.xyz
 !
 
-! zzap02.tv
+! zzap10.tv
 zzap*.tv
 plyr.io
 !
