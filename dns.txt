@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2023.0625.0
+! Version: 2023.0625.1
 
 ||warning.or.kr^
 ||steamdb.info^$dnsrewrite=104.16.181.45
@@ -36,6 +36,7 @@
 ||bgpview.io^$dnsrewrite=104.16.181.45
 ||v-front.de^$dnsrewrite=104.16.181.45
 ||scpslgame.com^$dnsrewrite=104.16.181.45
+||linuxgsm.com^$dnsrewrite=104.16.181.45
 ||ani1c1.top^$dnsrewrite=104.16.181.45
 ||comm.anikf.app^$dnsrewrite=104.16.181.45
 ||kfani.me^$dnsrewrite=104.16.181.45
