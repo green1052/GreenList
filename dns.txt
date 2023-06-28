@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2023.0625.1
+! Version: 2023.0629.0
 
 ||warning.or.kr^
 ||steamdb.info^$dnsrewrite=104.16.181.45
@@ -54,8 +54,6 @@
 ||cdn*-pigplayer.xyz^$dnsrewrite=104.16.181.45
 ||ndoodle.xyz^$dnsrewrite=104.16.181.45
 ||cdn*-ndoodle.xyz^$dnsrewrite=104.16.181.45
-||zzap*.tv^$dnsrewrite=104.16.181.45
-||plyr.io^$dnsrewrite=104.16.181.45
 /(new|mana|book)toki\d*\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d*\.com/$dnsrewrite=104.16.181.45
 /copytoon\d*\.com/$dnsrewrite=104.16.181.45
