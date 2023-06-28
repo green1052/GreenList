@@ -66,8 +66,8 @@ cdn*-ndoodle.xyz
 !
 
 ! zzap10.tv
-zzap*.tv
-plyr.io
+! zzap*.tv
+! plyr.io
 !
 
 /(new|mana|book)toki\d*\.(com|net|org)/
