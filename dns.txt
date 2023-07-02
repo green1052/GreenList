@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2023.0702.0
+! Version: 2023.0702.1
 
 ||warning.or.kr^
 ||steamdb.info^$dnsrewrite=104.16.181.45
@@ -40,6 +40,7 @@
 ||sponsor.ajay.app^$dnsrewrite=104.16.181.45
 ||returnyoutubedislikeapi.com^$dnsrewrite=104.16.181.45
 ||webstack.me^$dnsrewrite=104.16.181.45
+||buymeacoffee.com^$dnsrewrite=104.16.181.45
 ||linkkf.app^$dnsrewrite=104.16.181.45
 ||linkkf.tv^$dnsrewrite=104.16.181.45
 ||ncctvgroup.com^$dnsrewrite=104.16.181.45
