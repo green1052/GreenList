@@ -30,6 +30,9 @@ bgpview.io
 v-front.de
 scpslgame.com
 linuxgsm.com
+sponsor.ajay.app
+returnyoutubedislikeapi.com
+webstack.me
 
 ! noonoo22.tv
 ! images.nstatic.org
@@ -40,6 +43,9 @@ linuxgsm.com
 !
 
 ! mobikf.ncctvgroup.com
+linkkf.app
+linkkf.tv
+ncctvgroup.com
 ani1c1.top
 comm.anikf.app
 kfani.me
