@@ -34,6 +34,8 @@ sponsor.ajay.app
 returnyoutubedislikeapi.com
 webstack.me
 buymeacoffee.com
+emule-security.org
+codebeautify.org
 
 ! noonoo22.tv
 ! images.nstatic.org
