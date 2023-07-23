@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2023.0707.1
+! Version: 2023.0723.0
 
 ||warning.or.kr^
 ||steamdb.info^$dnsrewrite=104.16.181.45
@@ -48,6 +48,7 @@
 ||oo.pe^$dnsrewrite=104.16.181.45
 ||archive.green1052.com^$dnsrewrite=104.16.181.45
 ||31v60.23b3n3.top^$dnsrewrite=104.16.181.45
+||synoforum.com^$dnsrewrite=104.16.181.45
 ||linkkf.app^$dnsrewrite=104.16.181.45
 ||linkkf.tv^$dnsrewrite=104.16.181.45
 ||ncctvgroup.com^$dnsrewrite=104.16.181.45
