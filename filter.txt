@@ -2,14 +2,18 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2023.0510.0
+! Version: 2023.0807.0
 
 ||novelpia.com/js/jdetects.min.js
 ||novelpia.com/page/block^$document
 ||arca.live/static/assets/js/adult.min.js
 ||wsgadd.kt.com/nocache/s_youthProtect.html$all
 ||wsgadd.kt.com/nocache/s_smishing.html$all
-svrforum.com##.coffee-btn
+pixiv.net##.sc-jgyytr-1:has(.cRPGXW)
+login.11st.co.kr#@#.c-sns
+svrforum.com##.hot-deal-button
+svrforum.com##.membership-button
+novelpia.com##img[alt=광고]
 
 !#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
 @@||www.google.com/maps/embed^$stealth
