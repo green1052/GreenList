@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2023.1124.0
+! Version: 2023.1225.0
 
 ||novelpia.com/js/jdetects.min.js
 ||novelpia.com/page/block^$all
@@ -17,6 +17,15 @@ svrforum.com##.hot-deal-button
 svrforum.com##.membership-button
 novelpia.com##img[alt=광고]
 namu.wiki##div:has(> a[href$="namu.news"])
+ssg.com##.ssghero_slide_col:has(.ssgcommon_adinfo_txt)
+ssg.com##.cdtl_banner
+ssg.com##.cdtl_bn_marketing
+ssg.com##.csrch_advert
+ssg.com##.cmmyssg_mainbn
+ssg.com##.common_bn_imgbx
+ssg.com##.swiper-slide:has(.mnemitem_adinfo_v2)
+ssg.com##.mnemitem_grid_item:has(.mnemitem_adinfo_v2)
+ssg.com###plccBanrDiv
 
 !#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
 @@||www.google.com/maps/embed^$stealth
