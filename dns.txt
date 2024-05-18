@@ -46,7 +46,7 @@
 ||pastebin.com^$dnsrewrite=104.16.181.45
 ||swaytwig.com^$dnsrewrite=104.16.181.45
 ||oo.pe^$dnsrewrite=104.16.181.45
-||archive.green1052.com^$dnsrewrite=104.16.181.45
+||dcrefresher.green1052.com^$dnsrewrite=104.16.181.45
 ||31v60.23b3n3.top^$dnsrewrite=104.16.181.45
 ||synoforum.com^$dnsrewrite=104.16.181.45
 ||newtoki.*^$dnsrewrite=104.16.181.45
@@ -56,7 +56,6 @@
 ||nownowcdn.com^$dnsrewrite=104.16.181.45
 ||optifine.net^$dnsrewrite=104.16.181.45
 ||kiosk.ac^$dnsrewrite=104.16.181.45
-||oo.pe^$dnsrewrite=104.16.181.45
 ||unsafelink.com^$dnsrewrite=104.16.181.45
 ||linkkf.app^$dnsrewrite=104.16.181.45
 ||linkkf.tv^$dnsrewrite=104.16.181.45
