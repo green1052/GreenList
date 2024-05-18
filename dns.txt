@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2024.04.15
+! Version: 2024.05.19
 
 ||warning.or.kr^
 ||steamdb.info^$dnsrewrite=104.16.181.45
@@ -56,6 +56,8 @@
 ||nownowcdn.com^$dnsrewrite=104.16.181.45
 ||optifine.net^$dnsrewrite=104.16.181.45
 ||kiosk.ac^$dnsrewrite=104.16.181.45
+||oo.pe^$dnsrewrite=104.16.181.45
+||unsafelink.com^$dnsrewrite=104.16.181.45
 ||linkkf.app^$dnsrewrite=104.16.181.45
 ||linkkf.tv^$dnsrewrite=104.16.181.45
 ||ncctvgroup.com^$dnsrewrite=104.16.181.45
