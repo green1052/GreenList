@@ -2,4 +2,4 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2024.04.15
+! Version: 2024.05.19
