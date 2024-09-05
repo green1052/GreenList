@@ -50,6 +50,7 @@ nownowcdn.com
 optifine.net
 kiosk.ac
 unsafelink.com
+cdn.mittere.io
 
 ! noonoo22.tv
 ! images.nstatic.org
