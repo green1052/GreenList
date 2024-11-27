@@ -1,38 +1,24 @@
+playrecord.biz
+sexbjcam.com
 steamdb.info
 hasha.in
 hasha.me
 saucenao.com
-1412.rest
 hellven.net
 tcafe2a.com
 donmai.us
-newtoki.info
-img.imimggggg87878.com
-toonimg.com
-raindrop.live
-arkbooks.net
-ddbb.club
 etoland.co.kr
-scrbr.net
-ccfan.club
-rofan.day
-iroha.blue
-robelltory.com
-hisoki.me
 1004hit.com
-1004cdn.com
-k258059.net
-bunkr.ru
+1004apo.com
+k258059.cc
 rule34.xxx
 cs.rin.ru
-kioskloud.io
 bgpview.io
 v-front.de
 scpslgame.com
 linuxgsm.com
 sponsor.ajay.app
 returnyoutubedislikeapi.com
-webstack.me
 buymeacoffee.com
 emule-security.org
 codebeautify.org
@@ -40,57 +26,42 @@ pastebin.com
 swaytwig.com
 oo.pe
 dcrefresher.green1052.com
-31v60.23b3n3.top
 synoforum.com
 newtoki.*
-xn--h10b90b998c.site
 aagag.com
 vxtwitter.com
-nownowcdn.com
 optifine.net
 kiosk.ac
 unsafelink.com
 cdn.mittere.io
+plyr.io
 
-! noonoo22.tv
-! images.nstatic.org
-! etc.nstatic.org
-! player*.nvod.org
-! player-js.nvod.org
-! pull-api*.nvod.org
-!
-
-! mobikf.ncctvgroup.com
-linkkf.app
-linkkf.tv
-ncctvgroup.com
-ani1c1.top
-comm.anikf.app
-kfani.me
+! linkkf.net
+linkkf.net
+s3.im2403s2.lol
+hlk1.top
+sub1.top
+2.sub2.top
+myani.app
 !
 
 ! moeni.net
 moeni.net
-shinsekai.me
-shinsekai.co
-movcdns.xyz
+api.movcdn.fun
 !
 
 ! ohli24.net, aniweek.com, kormovie.com
 ohli24.net
 aniweek.com
 kormovie.com
-cdn*-xdoodle.xyz
-cdn*-nydoodle.xyz
-cdn*-catcdn.top
-pigplayer.com
-cdn*-pigplayer.xyz
-ndoodle.xyz
-cdn*-ndoodle.xyz
-!
-
-! zzapflix.tv
-plyr.io
+aninamu.com
+cdndania.com
+beast*-cdn.xyz
+viaproducciones.net
+glamov.com
+aniabout.com
+ohliplay.com
+cdndania.com
 !
 
 /(new|mana|book)toki\d*\.(com|net|org)/
