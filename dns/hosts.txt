@@ -35,6 +35,8 @@ kiosk.ac
 unsafelink.com
 cdn.mittere.io
 plyr.io
+vencord.dev
+nara-speller.co.kr
 
 ! linkkf.net
 linkkf.net
