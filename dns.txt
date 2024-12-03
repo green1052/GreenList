@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2024.11.27
+! Version: 2024.12.04
 
 ||warning.or.kr^
 ||playrecord.biz^$dnsrewrite=104.16.181.45
@@ -42,6 +42,8 @@
 ||unsafelink.com^$dnsrewrite=104.16.181.45
 ||cdn.mittere.io^$dnsrewrite=104.16.181.45
 ||plyr.io^$dnsrewrite=104.16.181.45
+||vencord.dev^$dnsrewrite=104.16.181.45
+||nara-speller.co.kr^$dnsrewrite=104.16.181.45
 ||linkkf.net^$dnsrewrite=104.16.181.45
 ||s3.im2403s2.lol^$dnsrewrite=104.16.181.45
 ||hlk1.top^$dnsrewrite=104.16.181.45
