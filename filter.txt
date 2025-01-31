@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2024.0915.1
+! Version: 2025.01.31
 
 ||novelpia.com/js/jdetects.min.js
 ||novelpia.com/page/block^$all
@@ -19,8 +19,6 @@ svrforum.com##.membership-button
 novelpia.com##img[alt=광고]
 novelpia.com###sub_sale_modal_v2
 namu.wiki##div:has(> a[href$="namu.news"])
-klauncher.kr##+js(set, DisableDevtool, noopFunc)
-klauncher.kr#%#//scriptlet('set-constant', '_0x3aa5', 'noopFunc')
 ssg.com##.ssghero_slide_col:has(.ssgcommon_adinfo_txt)
 ssg.com##.cdtl_banner
 ssg.com##.cdtl_bn_marketing
@@ -32,3 +30,23 @@ ssg.com##.mnemitem_grid_item:has(.mnemitem_adinfo_v2)
 ssg.com###plccBanrDiv
 tvmon6.org##.mobile-padding
 tvmon6.org##.banner_wrap2
+||dctrend.ai^
+||dccdn11.dcinside.co.kr^
+||cdn.trend.rankify.best/dctrend/
+||cdn.inappnews.net^
+||gall.dcinside.com/_js/survey.js
+dcinside.com##.r_timebest
+dcinside.com##.r_dcmedia
+dcinside.com##.trend
+dcinside.com##.dcmedia
+dcinside.com##.news_con
+dcinside.com##.r_only_daum
+dcinside.com##.r_recommend
+dcinside.com##.gall_exposure
+dcinside.com##+js(set, gall_content_count, noopFunc)
+dcinside.com##+js(set, recomAjax, noopFunc)
+dcinside.com##+js(set, newsAjax, noopFunc)
+dcinside.com##+js(set, trendAjax, noopFunc)
+dcinside.com##+js(set, mediaAjax, noopFunc)
+dcinside.com##+js(set, issueAjax, noopFunc)
+dcinside.com##+js(set, mixNewsMediaAjax, noopFunc)
