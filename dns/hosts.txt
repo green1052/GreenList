@@ -45,6 +45,7 @@ hlk1.top
 sub1.top
 2.sub2.top
 myani.app
+risuai.xyz
 !
 
 ! moeni.net
