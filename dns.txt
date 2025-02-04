@@ -50,6 +50,7 @@
 ||sub1.top^$dnsrewrite=104.16.181.45
 ||2.sub2.top^$dnsrewrite=104.16.181.45
 ||myani.app^$dnsrewrite=104.16.181.45
+||risuai.xyz^$dnsrewrite=104.16.181.45
 ||moeni.net^$dnsrewrite=104.16.181.45
 ||api.movcdn.fun^$dnsrewrite=104.16.181.45
 ||ohli24.net^$dnsrewrite=104.16.181.45
