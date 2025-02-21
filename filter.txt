@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.01.31
+! Version: 2025.02.22
 
 ||novelpia.com/js/jdetects.min.js
 ||novelpia.com/page/block^$all
@@ -43,6 +43,7 @@ dcinside.com##.news_con
 dcinside.com##.r_only_daum
 dcinside.com##.r_recommend
 dcinside.com##.gall_exposure
+dcinside.com##.news_result
 dcinside.com##+js(set, gall_content_count, noopFunc)
 dcinside.com##+js(set, recomAjax, noopFunc)
 dcinside.com##+js(set, newsAjax, noopFunc)
