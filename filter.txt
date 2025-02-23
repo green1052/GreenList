@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.02.22
+! Version: 2025.02.24
 
 ||novelpia.com/js/jdetects.min.js
 ||novelpia.com/page/block^$all
@@ -51,3 +51,4 @@ dcinside.com##+js(set, trendAjax, noopFunc)
 dcinside.com##+js(set, mediaAjax, noopFunc)
 dcinside.com##+js(set, issueAjax, noopFunc)
 dcinside.com##+js(set, mixNewsMediaAjax, noopFunc)
+klauncher.kr##+js(set, DisableDevtool, noopFunc)
