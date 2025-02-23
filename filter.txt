@@ -5,7 +5,6 @@
 ! Version: 2025.02.24
 
 ||novelpia.com/js/jdetects.min.js
-||novelpia.com/page/block^$all
 ||arca.live/static/assets/js/adult.min.js
 ||wsgadd.kt.com/nocache/s_youthProtect.html$all
 ||wsgadd.kt.com/nocache/s_smishing.html$all
