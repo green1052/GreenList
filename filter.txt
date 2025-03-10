@@ -2,8 +2,10 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.02.24
+! Version: 2025.03.11
 
+||prts.plus/ads_mumu.jpg
+prts.plus##a:has(> img[src="/ads_mumu.jpg"])
 ||novelpia.com/js/jdetects.min.js
 ||arca.live/static/assets/js/adult.min.js
 ||wsgadd.kt.com/nocache/s_youthProtect.html$all
