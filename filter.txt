@@ -2,7 +2,7 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.03.22
+! Version: 2025.04.05
 
 ||prts.plus/ads_mumu.jpg
 prts.plus##a:has(> img[src="/ads_mumu.jpg"])
@@ -34,6 +34,8 @@ tvmon6.org##.banner_wrap2
 ||cdn.trend.rankify.best/dctrend/
 ||cdn.inappnews.net^
 ||gall.dcinside.com/_js/survey.js
+dcinside.com###pop_bg
+dcinside.com##.closure-lightpop
 dcinside.com###opt_use_pop_bg
 dcinside.com###opt_use_pop
 dcinside.com##.r_timebest
