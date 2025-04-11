@@ -2,33 +2,12 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.04.05
+! Version: 2025.04.11
 
 ||prts.plus/ads_mumu.jpg
 prts.plus##a:has(> img[src="/ads_mumu.jpg"])
 ||novelpia.com/js/jdetects.min.js
 ||arca.live/static/assets/js/adult.min.js
-||wsgadd.kt.com/nocache/s_youthProtect.html$all
-||wsgadd.kt.com/nocache/s_smishing.html$all
-||arca.live/api/bywiki.json
-||arca.live/api/v1/pagead
-arca.live###wall
-pixiv.net##.sc-jgyytr-1:has(.cRPGXW)
-login.11st.co.kr#@#.c-sns
-svrforum.com##.hot-deal-button
-svrforum.com##.membership-button
-namu.wiki##div:has(> a[href$="namu.news"])
-ssg.com##.ssghero_slide_col:has(.ssgcommon_adinfo_txt)
-ssg.com##.cdtl_banner
-ssg.com##.cdtl_bn_marketing
-ssg.com##.csrch_advert
-ssg.com##.cmmyssg_mainbn
-ssg.com##.common_bn_imgbx
-ssg.com##.swiper-slide:has(.mnemitem_adinfo_v2)
-ssg.com##.mnemitem_grid_item:has(.mnemitem_adinfo_v2)
-ssg.com###plccBanrDiv
-tvmon6.org##.mobile-padding
-tvmon6.org##.banner_wrap2
 ||dctrend.ai^
 ||dccdn11.dcinside.co.kr^
 ||cdn.trend.rankify.best/dctrend/
@@ -54,4 +33,3 @@ dcinside.com##+js(set, trendAjax, noopFunc)
 dcinside.com##+js(set, mediaAjax, noopFunc)
 dcinside.com##+js(set, issueAjax, noopFunc)
 dcinside.com##+js(set, mixNewsMediaAjax, noopFunc)
-klauncher.kr##+js(set, DisableDevtool, noopFunc)
