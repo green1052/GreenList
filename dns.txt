@@ -1,5 +1,2 @@
-! Homepage: https://github.com/green1052/GreenList
-! License: https://github.com/green1052/GreenList/raw/master/LICENSE
-! Title: GreenList DNS (배포 중지)
-! Expires: 1 days
-! Version: 9999.99.99
+! Title: GreenList DNS
+! Redirect: https://git.green1052.com/green1052/GreenList/raw/branch/master/dns.txt
