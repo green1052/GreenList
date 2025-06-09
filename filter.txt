@@ -1,5 +1,5 @@
-! Homepage: https://git.green1052.com/green1052/GreenList
-! License: https://git.green1052.com/green1052/GreenList/raw/master/LICENSE
+! Homepage: https://github.com/green1052/GreenList
+! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
 ! Version: 2025.06.09
