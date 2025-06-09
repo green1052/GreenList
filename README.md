@@ -7,7 +7,7 @@
 ## GreenList
 
 ```
-https://raw.githubusercontent.com/green1052/GreenList/master/filter.txt
+https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/filter.txt
 ```
 
 ## GreenList DNS
@@ -17,5 +17,5 @@ https://raw.githubusercontent.com/green1052/GreenList/master/filter.txt
 만약 해당 사이트가 대한민국 정부의 인터넷 검열 대상이라면 우회 프로그램 없이도 접속이 가능합니다.
 
 ```
-https://raw.githubusercontent.com/green1052/GreenList/master/dns.txt
+https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/dns.txt
 ```
