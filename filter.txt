@@ -1,2 +1,69 @@
+! Homepage: https://git.green1052.com/green1052/GreenList
+! License: https://git.green1052.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
-! Redirect: https://git.green1052.com/green1052/GreenList/raw/branch/master/filter.txt
+! Expires: 1 days
+! Version: 2025.06.09
+
+!#if env_mobile
+namu.wiki##div[style^="color: rgba("]:has(> div > div > span + span)
+namu.wiki##div[style^="margin 0;"]:has(> div > div > span + span)
+
+namu.wiki##div[style^="color: rgba("]:has( > div > span > span + span)
+namu.wiki##div[style^="margin 0;"]:has( > div > span > span + span)
+
+namu.wiki##div[style^="color: rgba("]:has( > div > span > span + div)
+namu.wiki##div[style^="margin 0;"]:has( > div > span > span + div)
+
+namu.wiki##div[style^="color: rgba("]:has( > div > span > div + span)
+namu.wiki##div[style^="margin 0;"]:has( > div > span > div + span)
+
+namu.wiki##div[style^="margin 0;"]:has( > div > span > div + span > span)
+namu.wiki##div[style^="color: rgba("]:has( > div > span > div + span > span)
+
+namu.wiki##div[style^="margin 0;"]:has( > div > span > span + div > div)
+namu.wiki##div[style^="color: rgba("]:has( > div > span > span + div > div)
+
+!#else
+namu.wiki##div[style^="color: rgba("]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
+namu.wiki##div[style^="margin 0;"]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
+
+namu.wiki##div[style^="color: rgba("]:has( > div > div > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
+namu.wiki##div[style^="margin 0;"]:has( > div > div > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
+
+namu.wiki##div[style^="color: rgb"]:has( > div > div > span + span > div)
+namu.wiki##div[style^="margin 0;"]:has( > div > div > span + span > div)
+!#endif
+
+namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
+namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
+
+harpi.in##div:has(> script[src*="jads.js"])
+||zoot.plus/ad_leidian.webp
+zoot.plus##a:has(> img[src="/ad_leidian.webp"])
+||novelpia.com/js/jdetects.min.js
+||arca.live/static/assets/js/adult.min.js
+||dctrend.ai^
+||dccdn11.dcinside.co.kr^
+||cdn.trend.rankify.best/dctrend/
+||cdn.inappnews.net^
+||gall.dcinside.com/_js/survey.js
+dcinside.com###pop_bg
+dcinside.com##.closure-lightpop
+dcinside.com###opt_use_pop_bg
+dcinside.com###opt_use_pop
+dcinside.com##.r_timebest
+dcinside.com##.r_dcmedia
+dcinside.com##.trend
+dcinside.com##.dcmedia
+dcinside.com##.news_con
+dcinside.com##.r_only_daum
+dcinside.com##.r_recommend
+dcinside.com##.gall_exposure
+dcinside.com##.news_result
+dcinside.com##+js(set, gall_content_count, noopFunc)
+dcinside.com##+js(set, recomAjax, noopFunc)
+dcinside.com##+js(set, newsAjax, noopFunc)
+dcinside.com##+js(set, trendAjax, noopFunc)
+dcinside.com##+js(set, mediaAjax, noopFunc)
+dcinside.com##+js(set, issueAjax, noopFunc)
+dcinside.com##+js(set, mixNewsMediaAjax, noopFunc)
