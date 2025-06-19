@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.06.09
+! Version: 2025.06.20
 
 !#if env_mobile
 namu.wiki##div[style^="color: rgba("]:has(> div > div > span + span)
@@ -29,6 +29,9 @@ namu.wiki##div[style^="margin 0;"]:has( > div > span > span > img[src^="data:ima
 
 namu.wiki##div[style^="color: rgba("]:has( > div > div > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
+
+namu.wiki##div[style^="color: rgba("]:has( > div > span > span:has-text("파워링크") + span > span:has-text("광고"))
+namu.wiki##div[style^="margin 0;"]:has( > div > span > span:has-text("파워링크") + span > span:has-text("광고"))
 
 namu.wiki##div[style^="color: rgb"]:has( > div > div > span + span > div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + span > div)
