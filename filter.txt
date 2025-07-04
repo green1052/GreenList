@@ -43,6 +43,8 @@ namu.wiki##div[style^="color: rgba("]:has( > div > span > span > img[src^="data:
 namu.wiki##div[style^="margin 0;"]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
 !#endif
 
+namu.wiki##div:has(> p > img[alt="크리에이티브 커먼즈 라이선스"])
+
 namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
 
