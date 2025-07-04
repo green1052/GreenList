@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.07.05.3
+! Version: 2025.07.05.4
 
 !#if env_mobile
 namu.wiki#?#div:has(> a > span:-abp-contains(더 보기) + svg)
@@ -24,9 +24,6 @@ namu.wiki##div[style^="margin 0;"]:has( > div > span > div + span > span)
 
 namu.wiki##div[style^="color: rgba("]:has( > div > span > span + div > div)
 namu.wiki##div[style^="margin 0;"]:has( > div > span > span + div > div)
-
-namu.wiki#?#div[style^="color: rgba("]:-abp-has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
-namu.wiki#?#div[style^="margin 0;"]:-abp-has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
 !#else
 namu.wiki##div:has(> a > span:has-text("더 보기") + svg)
 
@@ -38,12 +35,12 @@ namu.wiki##div[style^="margin 0;"]:has( > div > span > span:has-text("파워링�
 
 namu.wiki##div[style^="color: rgb"]:has( > div > div > span + span > div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + span > div)
-
-namu.wiki##div[style^="color: rgba("]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
-namu.wiki##div[style^="margin 0;"]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
 !#endif
 
 namu.wiki##div:has(> p > img[alt="크리에이티브 커먼즈 라이선스"])
+
+namu.wiki##div[style^="color: rgba("]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
+namu.wiki##div[style^="margin 0;"]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
 
 namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
