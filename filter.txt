@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.07.10
+! Version: 2025.07.27
 
 !#if env_mobile
 namu.wiki#?#div:has(> a > span:-abp-contains(더 보기) + svg)
@@ -46,7 +46,6 @@ namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
 
 naver.com##+js(set-cookie, NSCS, 2)
-naver.com#$#document.cookie = 'NSCS=2; path=/; domain=.naver.com';
 harpi.in##div:has(> script[src*="jads.js"])
 ||zoot.plus/ad_leidian.webp
 zoot.plus##a:has(> img[src="/ad_leidian.webp"])
@@ -57,6 +56,21 @@ zoot.plus##a:has(> img[src="/ad_leidian.webp"])
 ||cdn.trend.rankify.best/dctrend/
 ||cdn.inappnews.net^
 ||gall.dcinside.com/_js/survey.js
+||www.dcinside.com/_js/realtime_best.js
+||gall.dcinside.com/_js/favorite.js
+||www.dcinside.com/_js/click_log.js
+||json2.dcinside.com/json1/notice.php
+||json2.dcinside.com/json1/migallmain/migallery_new.php
+||json2.dcinside.com/json1/prgallmain/prgallery_new.php
+||json.dcinside.com/json1/rolling_gallery.php
+||nstatic.dcinside.com/dc/w/js/html5shiv.min.js
+||gall.dcinside.com/_js/html5shiv.min.js
+||gall.dcinside.com/_js/cross_domain.js
+||gall.dcinside.com/_js/user_block.js
+||gall.dcinside.com/_js/fcm/app.js
+||gall.dcinside.com/_js/spoiler.js
+||gall.dcinside.com/_js/autozzal.js
+||gall.dcinside.com/manifest.json
 dcinside.com###pop_bg
 dcinside.com##.closure-lightpop
 dcinside.com###opt_use_pop_bg
