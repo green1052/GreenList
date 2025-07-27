@@ -49,6 +49,7 @@ naver.com##+js(set-cookie, NSCS, 2)
 harpi.in##div:has(> script[src*="jads.js"])
 ||zoot.plus/ad_leidian.webp
 zoot.plus##a:has(> img[src="/ad_leidian.webp"])
+novelpia.com##+js(remove-cookie, REF_DATA, when, scroll)
 ||novelpia.com/js/jdetects.min.js
 ||arca.live/static/assets/js/adult.min.js
 ||dctrend.ai^
