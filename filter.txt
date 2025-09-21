@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.08.22
+! Version: 2025.09.22
 
 !#if env_mobile
 namu.wiki#?#div:has(> a > span:-abp-contains(더 보기) + svg)
@@ -45,6 +45,7 @@ namu.wiki##div[style^="margin 0;"]:has( > div > span > span > img[src^="data:ima
 namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
 
+login.11st.co.kr#@#.c-sns
 wakatime.com##.swing-down-alert:has(h4:has-text(Unlock Premium Features))
 naver.com##+js(set-cookie, NSCS, 2)
 harpi.in##div:has(> script[src*="jads.js"])
