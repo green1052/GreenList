@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.09.22
+! Version: 2025.09.25
 
 !#if env_mobile
 namu.wiki#?#div:has(> a > span:-abp-contains(더 보기) + svg)
@@ -88,6 +88,7 @@ dcinside.com##.r_only_daum
 dcinside.com##.r_recommend
 dcinside.com##.gall_exposure
 dcinside.com##.news_result
+dcinside.com##.gaejukimg
 dcinside.com##+js(set, gall_content_count, noopFunc)
 dcinside.com##+js(set, recomAjax, noopFunc)
 dcinside.com##+js(set, newsAjax, noopFunc)
@@ -95,3 +96,5 @@ dcinside.com##+js(set, trendAjax, noopFunc)
 dcinside.com##+js(set, mediaAjax, noopFunc)
 dcinside.com##+js(set, issueAjax, noopFunc)
 dcinside.com##+js(set, mixNewsMediaAjax, noopFunc)
+dcinside.com##+js(acis, adBlockDetection)
+dcinside.com##+js(set, blockedState, 0)
