@@ -89,6 +89,7 @@ dcinside.com##.r_recommend
 dcinside.com##.gall_exposure
 dcinside.com##.news_result
 dcinside.com##.gaejukimg
+m.dcinside.com###app_down_pop
 dcinside.com##+js(set, gall_content_count, noopFunc)
 dcinside.com##+js(set, recomAjax, noopFunc)
 dcinside.com##+js(set, newsAjax, noopFunc)
@@ -98,3 +99,5 @@ dcinside.com##+js(set, issueAjax, noopFunc)
 dcinside.com##+js(set, mixNewsMediaAjax, noopFunc)
 dcinside.com##+js(acis, adBlockDetection)
 dcinside.com##+js(set, blockedState, 0)
+m.dcinside.com##+js(set, setViewCount, noopFunc)
+m.dcinside.com##+js(set, election_alert, noopFunc)
