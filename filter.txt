@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.09.25
+! Version: 2025.10.10
 
 !#if env_mobile
 namu.wiki#?#div:has(> a > span:-abp-contains(더 보기) + svg)
@@ -74,6 +74,9 @@ novelpia.com##+js(remove-cookie, REF_DATA, when, scroll)
 ||gall.dcinside.com/_js/autozzal.js
 ||gall.dcinside.com/_js/image_comment.js
 ||gall.dcinside.com/manifest.json
+||nstatic.dcinside.com/dc/test/w/moveimg/moveimg.png
+||nstatic.dcinside.com/dc/w/images/moveimg.png
+dcinside.com###gaejukimg
 dcinside.com##.img_comment_toggle
 dcinside.com###pop_bg
 dcinside.com##.closure-lightpop
@@ -101,3 +104,4 @@ dcinside.com##+js(acis, adBlockDetection)
 dcinside.com##+js(set, blockedState, 0)
 m.dcinside.com##+js(set, setViewCount, noopFunc)
 m.dcinside.com##+js(set, election_alert, noopFunc)
+m.dcinside.com##+js(set, checkAdblockOncePerDay, noopFunc)
