@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.10.10
+! Version: 2025.10.18
 
 !#if env_mobile
 namu.wiki#?#div:has(> a > span:-abp-contains(더 보기) + svg)
@@ -92,6 +92,7 @@ dcinside.com##.r_recommend
 dcinside.com##.gall_exposure
 dcinside.com##.news_result
 dcinside.com##.gaejukimg
+dcinside.com##.link_gnb:has-text(BJ방송)
 m.dcinside.com###app_down_pop
 dcinside.com##+js(set, gall_content_count, noopFunc)
 dcinside.com##+js(set, recomAjax, noopFunc)
