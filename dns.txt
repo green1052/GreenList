@@ -2,8 +2,9 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2025.07.26
+! Version: 2025.11.29
 
+||game-event-collector.team-horay-game.workers.dev
 ||warning.or.kr^
 ||playrecord.biz^$dnsrewrite=104.16.181.45
 ||sexbjcam.com^$dnsrewrite=104.16.181.45
