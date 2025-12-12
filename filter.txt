@@ -46,6 +46,13 @@ namu.wiki##div[style^="color: rgba("]:has( > div > span > div:has-text("파워�
 namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
 
+||cdn.dak.gg/*/images/popup
+||cdn.dak.gg/portal/images/banner/card_motion.gif
+dak.gg##div:has(> div > #frontpage-popup)
+dak.gg##html:style(overflow: initial !important)
+dak.gg##.right-menus
+poro.gg##.popup-overlay
+poro.gg##.banner
 op.gg##+js(trusted-set-cookie, _ol, ko_KR)
 op.gg##+js(trusted-set-cookie, NEXT_LOCALE, ko)
 ||inven.co.kr/common/lib/js/banner_tracker.js
