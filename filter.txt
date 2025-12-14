@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.12.13
+! Version: 2025.12.15
 
 !#if env_mobile
 namu.wiki##div[style^="color: rgba("]:has(> div > div > span + span)
@@ -46,6 +46,7 @@ namu.wiki##div[style^="color: rgba("]:has( > div > span > div:has-text("파워�
 namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
 
+coupang.com$document,removeparam=~/^(itemId|vendorItemId|categoryId|eventCategory)/
 ||cdn.dak.gg/*/images/popup
 ||cdn.dak.gg/portal/images/banner/card_motion.gif
 dak.gg##div:has(> div > #frontpage-popup)
