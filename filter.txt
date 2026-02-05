@@ -29,6 +29,9 @@ namu.wiki##div[style^="margin 0;"]:has( > div > div > span > img[src^="data:imag
 namu.wiki##div[style^="color: rgba("]:has( > div > span > span:has-text("파워링크") + span > span:has-text("광고"))
 namu.wiki##div[style^="margin 0;"]:has( > div > span > span:has-text("파워링크") + span > span:has-text("광고"))
 
+namu.wiki##div[style^="color: rgba("]:has( > div > div > div:has-text("파워링크") + span > div:has-text("광고"))
+namu.wiki##div[style^="margin 0;"]:has( > div > div > div:has-text("파워링크") + span > div:has-text("광고"))
+
 namu.wiki##div[style^="color: rgb"]:has( > div > div > span + span > div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + span > div)
 !#endif
