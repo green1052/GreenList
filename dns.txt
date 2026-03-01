@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2026.02.15
+! Version: 2026.03.01
 
 ||shortformstats.kakao.com^
 ||play.kakao.com^
@@ -70,6 +70,7 @@
 ||aniabout.com^$dnsrewrite=104.16.181.45
 ||ohliplay.com^$dnsrewrite=104.16.181.45
 ||cdndania.com^$dnsrewrite=104.16.181.45
+||litomi.in^$dnsrewrite=104.16.181.45
 /(new|mana|book)toki\d+\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d+\.com/$dnsrewrite=104.16.181.45
 /copytoon\d+\.com/$dnsrewrite=104.16.181.45
