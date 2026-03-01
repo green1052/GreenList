@@ -49,6 +49,7 @@ namu.wiki##div[style^="color: rgba("]:has( > div > span > div:has-text("파워�
 namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
 
+m.dcinside.com##body:style(font-family: "Pretendard" !important)
 litomi.in##li:has(.lucide-heart)
 ||cdn.buymeacoffee.com/buttons/v2/default-yellow.png$domain=litomi.in
 ||gpp.krafton.io/game-telemetry
