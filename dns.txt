@@ -4,6 +4,7 @@
 ! Expires: 1 days
 ! Version: 2026.03.01
 
+||anal.litomi.in^
 ||shortformstats.kakao.com^
 ||play.kakao.com^
 ||analytics.dakgg.io^
