@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2026.03.01
+! Version: 2026.04.02
 
 !#if env_mobile
 namu.wiki##div[style^="color: rgba("]:has(> div > div > span + span)
@@ -49,6 +49,7 @@ namu.wiki##div[style^="color: rgba("]:has( > div > span > div:has-text("파워�
 namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
 
+arca.live##.notice:has(.col-id:has-text(광고))
 m.dcinside.com##body:style(font-family: "Pretendard" !important)
 litomi.in##li:has(.lucide-heart)
 ||cdn.buymeacoffee.com/buttons/v2/default-yellow.png$domain=litomi.in
