@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2026.04.05
+! Version: 2026.04.06
 
 @@||*.top^$important
 @@||zrr.kr^$important
@@ -55,6 +55,8 @@
 ||risuai.xyz^$dnsrewrite=104.16.181.45
 ||kio.ac^$dnsrewrite=104.16.181.45
 ||linkkf.net^$dnsrewrite=104.16.181.45
+||linkkf.live^$dnsrewrite=104.16.181.45
+||linkkf.tv^$dnsrewrite=104.16.181.45
 ||s3.im2403s2.lol^$dnsrewrite=104.16.181.45
 ||hlk1.top^$dnsrewrite=104.16.181.45
 ||sub1.top^$dnsrewrite=104.16.181.45
