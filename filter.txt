@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2026.04.02
+! Version: 2026.04.06
 
 !#if env_mobile
 namu.wiki##div[style^="color: rgba("]:has(> div > div > span + span)
@@ -49,6 +49,9 @@ namu.wiki##div[style^="color: rgba("]:has( > div > span > div:has-text("파워�
 namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
 namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
 
+comcbt.com##center:has(> div > a[href="https://cafe.naver.com/goodpapacbt/15212"])
+comcbt.com##div:has( > font:has-text("밀양금성컴퓨터학원"))
+comcbt.com###gscomad
 arca.live##.notice:has(.col-id:has-text(광고))
 m.dcinside.com##body:style(font-family: "Pretendard" !important)
 litomi.in##li:has(.lucide-heart)
