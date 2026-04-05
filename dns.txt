@@ -57,6 +57,12 @@
 ||linkkf.net^$dnsrewrite=104.16.181.45
 ||linkkf.live^$dnsrewrite=104.16.181.45
 ||linkkf.tv^$dnsrewrite=104.16.181.45
+||ims1.top^$dnsrewrite=104.16.181.45
+||5imgdarr.top^$dnsrewrite=104.16.181.45
+||flexora.xyz^$dnsrewrite=104.16.181.45
+||r21.1025aniwe.top^$dnsrewrite=104.16.181.45
+||playv2.sub3.top^$dnsrewrite=104.16.181.45
+||n20.ba23o.top^$dnsrewrite=104.16.181.45
 ||s3.im2403s2.lol^$dnsrewrite=104.16.181.45
 ||hlk1.top^$dnsrewrite=104.16.181.45
 ||sub1.top^$dnsrewrite=104.16.181.45
