@@ -4,51 +4,6 @@
 ! Expires: 1 days
 ! Version: 2026.04.06
 
-!#if env_mobile
-namu.wiki##div[style^="color: rgba("]:has(> div > div > span + span)
-namu.wiki##div[style^="margin 0;"]:has(> div > div > span + span)
-
-namu.wiki##div[style^="color: rgba("]:has( > div > span > span + span)
-namu.wiki##div[style^="margin 0;"]:has( > div > span > span + span)
-
-namu.wiki##div[style^="color: rgba("]:has( > div > span > span + div)
-namu.wiki##div[style^="margin 0;"]:has( > div > span > span + div)
-
-namu.wiki##div[style^="color: rgba("]:has( > div > span > div + span)
-namu.wiki##div[style^="margin 0;"]:has( > div > span > div + span)
-
-namu.wiki##div[style^="color: rgba("]:has( > div > span > div + span > span)
-namu.wiki##div[style^="margin 0;"]:has( > div > span > div + span > span)
-
-namu.wiki##div[style^="color: rgba("]:has( > div > span > span + div > div)
-namu.wiki##div[style^="margin 0;"]:has( > div > span > span + div > div)
-!#else
-namu.wiki##div[style^="color: rgba("]:has( > div > div > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
-namu.wiki##div[style^="margin 0;"]:has( > div > div > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
-
-namu.wiki##div[style^="color: rgba("]:has( > div > span > span:has-text("파워링크") + span > span:has-text("광고"))
-namu.wiki##div[style^="margin 0;"]:has( > div > span > span:has-text("파워링크") + span > span:has-text("광고"))
-
-namu.wiki##div[style^="color: rgba("]:has( > div > div > div:has-text("파워링크") + span > div:has-text("광고"))
-namu.wiki##div[style^="margin 0;"]:has( > div > div > div:has-text("파워링크") + span > div:has-text("광고"))
-
-namu.wiki##div[style^="color: rgb"]:has( > div > div > span + span > div)
-namu.wiki##div[style^="margin 0;"]:has( > div > div > span + span > div)
-!#endif
-
-namu.wiki##div:has(> a > span:has-text("더 보기") + svg)
-namu.wiki##div:has(> p > img[alt="크리에이티브 커먼즈 라이선스"])
-
-namu.wiki##div[style^="color: rgba("]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
-namu.wiki##div[style^="margin 0;"]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
-
-namu.wiki##div[style^="margin 0;"]:has( > div > span > div:has-text("파워링크"))
-
-namu.wiki##div[style^="color: rgba("]:has( > div > span > div:has-text("파워링크") + span)
-
-namu.wiki##div[style^="color: rgba("]:has( > div > div > span + div)
-namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
-
 comcbt.com##center:has(> div > a[href="https://cafe.naver.com/goodpapacbt/15212"])
 comcbt.com##div:has( > font:has-text("밀양금성컴퓨터학원"))
 comcbt.com###gscomad
