@@ -14,7 +14,7 @@ litomi.in###juicy-ads-banner
 ||cdn.buymeacoffee.com/buttons/v2/default-yellow.png$domain=litomi.in
 ||gpp.krafton.io/game-telemetry
 litt.ly##div:has(> a[href*="www.placea.co.kr"])
-coupang.com$document,removeparam=~/^(itemId|vendorItemId|categoryId|eventCategory|q|pageKey)/
+!coupang.com$document,removeparam=~/^(itemId|vendorItemId|categoryId|eventCategory|q|pageKey)/
 ||cdn.dak.gg/*/images/popup
 ||cdn.dak.gg/portal/images/banner/card_motion.gif
 dak.gg##div:has(> div > #frontpage-popup)
