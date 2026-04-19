@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2026.04.06
+! Version: 2026.04.19
 
 comcbt.com##center:has(> div > a[href="https://cafe.naver.com/goodpapacbt/15212"])
 comcbt.com##div:has( > font:has-text("밀양금성컴퓨터학원"))
