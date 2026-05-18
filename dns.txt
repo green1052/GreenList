@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2026.04.06
+! Version: 2026.05.19
 
 @@||*.top^$important
 @@||zrr.kr^$important
@@ -82,7 +82,11 @@
 ||ohliplay.com^$dnsrewrite=104.16.181.45
 ||cdndania.com^$dnsrewrite=104.16.181.45
 ||litomi.in^$dnsrewrite=104.16.181.45
-/(new|mana|book)toki\d+\.(com|net|org)/$dnsrewrite=104.16.181.45
+||뉴토끼평생.com^$dnsrewrite=104.16.181.45
+/(new|ma|book)to\d+\.com/$dnsrewrite=104.16.181.45
+||뉴토끼주소.com^$dnsrewrite=104.16.181.45
+||sbxh2.com^$dnsrewrite=104.16.181.45
+# /(new|mana|book)toki\d+\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d+\.com/$dnsrewrite=104.16.181.45
 /copytoon\d+\.com/$dnsrewrite=104.16.181.45
 /toonsarang\d+\.com/$dnsrewrite=104.16.181.45
