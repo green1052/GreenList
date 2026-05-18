@@ -4,6 +4,12 @@
 ! Expires: 1 days
 ! Version: 2026.05.19
 
+[$domain=/(new|ma|book)to\d+\.com/]##.basic-banner-4
+[$domain=/(new|ma|book)to\d+\.com/]##+js(aeld, keydown, event.ctrlKey)
+[$domain=/(new|ma|book)to\d+\.com/]##+js(aeld, contextmenu)
+[$domain=/(new|ma|book)to\d+\.com/]##body:style(user-select: auto !important;)
+/(new|ma|book)to\d+\.com\/js\/apms\.db\.js/
+/(new|ma|book)to\d+\.com\/data\/apms/
 sbxh2.com##+js(no-fetch-if, /api/dev-block/)
 sbxh2.com##.bn-r-header
 sbxh2.com##.bn-r-detail
