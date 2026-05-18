@@ -86,6 +86,7 @@
 /(new|ma|book)to\d+\.com/$dnsrewrite=104.16.181.45
 ||뉴토끼주소.com^$dnsrewrite=104.16.181.45
 ||sbxh2.com^$dnsrewrite=104.16.181.45
+||toonflix.app^$dnsrewrite=104.16.181.45
 # /(new|mana|book)toki\d+\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d+\.com/$dnsrewrite=104.16.181.45
 /copytoon\d+\.com/$dnsrewrite=104.16.181.45
