@@ -6,6 +6,7 @@
 
 @@||*.top^$important
 @@||zrr.kr^$important
+||whoas.xyz^
 ||anal.litomi.in^
 ||shortformstats.kakao.com^
 ||play.kakao.com^
