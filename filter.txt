@@ -16,6 +16,11 @@ sbxh2.com##.bn-r-detail
 sbxh2.com##+js(aeld, keydown, /F12/)
 sbxh2.com##+js(aeld, contextmenu)
 sbxh2.com##+js(aeld, dragstart)
+sbxh2.com##+js(trusted-prevent-fetch, /api/me/block-check, {"blocked":false})
+||sbxh2.com/init/fp.js
+||sbxh2.com/init/pid.js
+||sbxh2.com/init/block.js
+||sbxh2.com/api/recent/track-batch
 ||sbxh2.com/api/dev-block/api/dev-block
 youtube.com##.ytOverlayStickerHost
 comcbt.com##center:has(> div > a[href="https://cafe.naver.com/goodpapacbt/15212"])
