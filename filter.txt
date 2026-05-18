@@ -4,6 +4,7 @@
 ! Expires: 1 days
 ! Version: 2026.05.19
 
+||whoas.xyz/live/track.js
 [$domain=/(new|ma|book)to\d+\.com/]##.basic-banner-4
 [$domain=/(new|ma|book)to\d+\.com/]##+js(aeld, keydown, event.ctrlKey)
 [$domain=/(new|ma|book)to\d+\.com/]##+js(aeld, contextmenu)
