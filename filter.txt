@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2026.05.19
+! Version: 2026.05.20
 
 ||whoas.xyz/live/track.js
 [$domain=/(new|ma|book)to\d+\.com/]##.basic-banner-4
@@ -12,8 +12,7 @@
 /(new|ma|book)to\d+\.com\/js\/apms\.db\.js/
 /(new|ma|book)to\d+\.com\/data\/apms/
 sbxh2.com##+js(no-fetch-if, /api/dev-block/)
-sbxh2.com##.bn-r-header
-sbxh2.com##.bn-r-detail
+sbxh2.com##div[aria-label=배너]
 sbxh2.com##+js(aeld, keydown, /F12/)
 sbxh2.com##+js(aeld, contextmenu)
 sbxh2.com##+js(aeld, dragstart)
