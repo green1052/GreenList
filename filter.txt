@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2026.05.22
+! Version: 2026.05.24
 
 ||whoas.xyz/live/track.js
 [$domain=/(new|ma|book)to\d+\.com/]##.basic-banner-4
@@ -11,6 +11,10 @@
 [$domain=/(new|ma|book)to\d+\.com/]##body:style(user-select: auto !important;)
 /(new|ma|book)to\d+\.com\/js\/apms\.db\.js/
 /(new|ma|book)to\d+\.com\/data\/apms/
+sbxh2.com##+js(trusted-replace-argument, Document.prototype.querySelectorAll, 0, null, condition, /^\[data-br="1"\]\[data-br-n\]$/)
+sbxh2.com##+js(set, window.__bSeen, 0)
+sbxh2.com##+js(set-attr, html, data-ab, )
+sbxh2.com##+js(set-attr, html, data-rb, )
 sbxh2.com##+js(no-fetch-if, /api/dev-block/)
 sbxh2.com##+js(aeld, keydown, /F12/)
 sbxh2.com##+js(aeld, contextmenu)
@@ -18,15 +22,7 @@ sbxh2.com##+js(aeld, dragstart)
 sbxh2.com##+js(trusted-prevent-fetch, /api/me/block-check, {"blocked":false})
 sbxh2.com##+js(set, console.clear, noopFunc)
 sbxh2.com##+js(nosiif, console.log(e), 1500)
-/sbxh[0-9]+\.com/#@#+js(prevent-setTimeout, /[A-Za-z0-9]+ *\( *\) *, *[A-Za-z0-9]+ *\. *[A-Za-z0-9]+ *= *window\.setInterval *\(/)
 sbxh2.com##+js(no-fetch-if, /api/m/ev)
-sbxh2.com##+js(trusted-replace-argument, Document.prototype.querySelectorAll, 0, null, condition, /^\[data-br="1"\]\[data-br-n\]$/)
-sbxh2.com##+js(trusted-replace-argument, Document.prototype.querySelectorAll, 0, null, condition, /^\[data-bs="1"\]\, \[data-bp="1"\]$/)
-sbxh2.com##+js(trusted-replace-argument, MutationObserver, 0, noopFunc)
-sbxh2.com##+js(nostif, csp_block, 1500)
-sbxh2.com##+js(nostif, script_noop, 2000)
-sbxh2.com##+js(nosiif, reapply, 1000)
-sbxh2.com##+js(trusted-replace-argument, Worker, 0, json:"data:application/javascript,let%20timers%3D%7B%7D%2CnextId%3D1%3Bonmessage%3Dfunction(e)%7Bvar%20d%3De.data%3Bif(d.cmd%3D%3D%3D%22probe%22)%7BpostMessage(%7Bid%3Ad.id%2Ckind%3A%22probe%22%7D)%7Delse%20if(d.cmd%3D%3D%3D%22setTimeout%22)%7Bvar%20id%3DnextId%2B%2B%3Btimers%5Bid%5D%3DsetTimeout(function()%7Bdelete%20timers%5Bid%5D%3BpostMessage(%7Bid%3Ad.id%2Ckind%3A%22timeout%22%7D)%7D%2Cd.ms)%3BpostMessage(%7Bid%3Ad.id%2CworkerHandle%3Aid%7D)%7Delse%20if(d.cmd%3D%3D%3D%22setInterval%22)%7Bvar%20id2%3DnextId%2B%2B%3Btimers%5Bid2%5D%3DsetInterval(function()%7BpostMessage(%7Bid%3Ad.id%2Ckind%3A%22interval%22%7D)%7D%2Cd.ms)%3BpostMessage(%7Bid%3Ad.id%2CworkerHandle%3Aid2%7D)%7Delse%20if(d.cmd%3D%3D%3D%22clear%22)%7Bif(timers%5Bd.workerHandle%5D)%7BclearTimeout(timers%5Bd.workerHandle%5D)%3BclearInterval(timers%5Bd.workerHandle%5D)%3Bdelete%20timers%5Bd.workerHandle%5D%7D%7D%7D", condition, /^blob:https:\/\/sbxh2\.com\//)
 ||sbxh2.com/init/fp.js
 ||sbxh2.com/init/pid.js
 ||sbxh2.com/init/block.js
