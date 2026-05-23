@@ -27,7 +27,6 @@ sbxh2.com##+js(no-fetch-if, /api/m/ev)
 ||sbxh2.com/init/pid.js
 ||sbxh2.com/init/block.js
 ||sbxh2.com/api/recent/track-batch
-||sbxh2.com/api/dev-block/api/dev-block
 youtube.com##.ytOverlayStickerHost
 comcbt.com##center:has(> div > a[href="https://cafe.naver.com/goodpapacbt/15212"])
 comcbt.com##div:has(> font:has-text("밀양금성컴퓨터학원"))
