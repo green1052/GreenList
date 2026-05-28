@@ -4,10 +4,15 @@
 ! Expires: 1 days
 ! Version: 2026.05.28
 
-sbxh2.com##+js(trusted-prevent-fetch, /api/me/block-check, {"blocked":false})
-sbxh2.com##+js(aeld, keydown, /F12/)
-sbxh2.com##+js(aeld, contextmenu)
-sbxh2.com##+js(aeld, dragstart)
+sbxh3.com##+js(trusted-prevent-fetch, /api/me/block-check, {"blocked":false})
+sbxh3.com##+js(no-fetch-if, /api/dev-block/)
+sbxh3.com##+js(aeld, keydown, /F12/)
+sbxh3.com##+js(aeld, contextmenu)
+sbxh3.com##+js(aeld, dragstart)
+sbxh3.com##+js(set, console.clear, noopFunc)
+sbxh3.com##+js(nosiif, auto:formatters, 2500)
+sbxh3.com##+js(nosiif, checkDevTools, 2500)
+sbxh3.com##+js(nostif, checkDevTools, 300)
 ||whoas.xyz/live/track.js
 [$domain=/(new|ma|book)to\d+\.com/]##.basic-banner-4
 [$domain=/(new|ma|book)to\d+\.com/]##+js(aeld, keydown, event.ctrlKey)
