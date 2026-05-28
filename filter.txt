@@ -4,6 +4,10 @@
 ! Expires: 1 days
 ! Version: 2026.05.28
 
+||sbxh3.com/api/m/ev
+||sbxh3.com/init/fp.js
+||sbxh3.com/init/pid.js
+||sbxh3.com/init/block.js
 sbxh3.com##+js(trusted-prevent-fetch, /api/me/block-check, {"blocked":false})
 sbxh3.com##+js(no-fetch-if, /api/dev-block/)
 sbxh3.com##+js(aeld, keydown, /F12/)
