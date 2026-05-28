@@ -4,6 +4,10 @@
 ! Expires: 1 days
 ! Version: 2026.05.28
 
+sbxh2.com##+js(trusted-prevent-fetch, /api/me/block-check, {"blocked":false})
+sbxh2.com##+js(aeld, keydown, /F12/)
+sbxh2.com##+js(aeld, contextmenu)
+sbxh2.com##+js(aeld, dragstart)
 ||whoas.xyz/live/track.js
 [$domain=/(new|ma|book)to\d+\.com/]##.basic-banner-4
 [$domain=/(new|ma|book)to\d+\.com/]##+js(aeld, keydown, event.ctrlKey)
