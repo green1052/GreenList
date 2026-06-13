@@ -9,7 +9,7 @@ kimyoung.co.kr##.wrap div[id^=aside2023]:style(position: fixed !important)
 ||kimyoung.co.kr/common/js/dragno.js^
 kimyoung.co.kr##.bottom_bn2026052201
 ||img.kimyoung.co.kr/banner_new/sub/bottomBnr_260607_01.jpg^
-||mts.daumcdn.net/api/v1/tile/PNG02/v20_vwhzl/latest^$domain=kimyoung.co.kr
+||t1.kakaocdn.net/kakaomapweb/roughmap/place/prod/207038f2_1774248312945/roughmapLander.js^$domain=kimyoung.co.kr
 ||cdn.channel.io^$domain=kimyoung.co.kr
 kimyoung.co.kr##+js(set, console.clear, noopFunc)
 ||sbxh3.com/api/m/ev
