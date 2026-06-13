@@ -5,6 +5,7 @@
 ! Version: 2026.06.13
 
 ||v.kr.kollus.com/err^
+kimyoung.co.kr##.wrap div[id^=aside2023]:style(position: fixed !important)
 ||kimyoung.co.kr/common/js/dragno.js^
 kimyoung.co.kr##.bottom_bn2026052201
 ||img.kimyoung.co.kr/banner_new/sub/bottomBnr_260607_01.jpg^
