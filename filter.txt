@@ -2,8 +2,15 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2026.05.28
+! Version: 2026.06.13
 
+||v.kr.kollus.com/err^
+||kimyoung.co.kr/common/js/dragno.js^
+kimyoung.co.kr##.bottom_bn2026052201
+||img.kimyoung.co.kr/banner_new/sub/bottomBnr_260607_01.jpg^
+||mts.daumcdn.net/api/v1/tile/PNG02/v20_vwhzl/latest^$domain=kimyoung.co.kr
+||cdn.channel.io^$domain=kimyoung.co.kr
+kimyoung.co.kr##+js(set, console.clear, noopFunc)
 ||sbxh3.com/api/m/ev
 ||sbxh3.com/init/fp.js
 ||sbxh3.com/init/pid.js
