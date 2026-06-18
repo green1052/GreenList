@@ -2,8 +2,12 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2026.06.13
+! Version: 2026.06.18
 
+[$domain=/kimyoung\.co\.kr\/PlayerN/]##body:style(width: 100vw !important; height: 100vh !important;)
+[$domain=/kimyoung\.co\.kr\/PlayerN/]##.player_content:style(width: 100vw !important; height: 100vh !important;)
+[$domain=/kimyoung\.co\.kr\/PlayerN/]##.right_sidebar:style(display: contents !important;)
+[$domain=/kimyoung\.co\.kr\/PlayerN/]##.video_screen:style(min-height: calc(100vh - 300px) !important;)
 ||v.kr.kollus.com/err^
 kimyoung.co.kr##.wrap div[id^=aside2023]:style(position: fixed !important)
 ||kimyoung.co.kr/common/js/dragno.js^
