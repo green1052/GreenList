@@ -22,19 +22,6 @@ kimyoung.co.kr##.bottom_bn2026052201
 ||t1.kakaocdn.net/kakaomapweb/roughmap/place/prod/207038f2_1774248312945/roughmapLander.js^$domain=kimyoung.co.kr
 ||cdn.channel.io^$domain=kimyoung.co.kr
 kimyoung.co.kr##+js(set, console.clear, noopFunc)
-||sbxh3.com/api/m/ev
-||sbxh3.com/init/fp.js
-||sbxh3.com/init/pid.js
-||sbxh3.com/init/block.js
-sbxh3.com##+js(trusted-prevent-fetch, /api/me/block-check, {"blocked":false})
-sbxh3.com##+js(no-fetch-if, /api/dev-block/)
-sbxh3.com##+js(aeld, keydown, /F12/)
-sbxh3.com##+js(aeld, contextmenu)
-sbxh3.com##+js(aeld, dragstart)
-sbxh3.com##+js(set, console.clear, noopFunc)
-sbxh3.com##+js(nosiif, auto:formatters, 2500)
-sbxh3.com##+js(nosiif, checkDevTools, 2500)
-sbxh3.com##+js(nostif, checkDevTools, 300)
 ||whoas.xyz/live/track.js
 [$domain=/(new|ma|book)to\d+\.com/]##.basic-banner-4
 [$domain=/(new|ma|book)to\d+\.com/]##+js(aeld, keydown, event.ctrlKey)
