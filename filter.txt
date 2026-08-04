@@ -2,7 +2,7 @@
 ! License: https://raw.githubusercontent.com/green1052/GreenList/refs/heads/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2026.06.30
+! Version: 2026.08.05
 
 [$domain=/kimyoung\.co\.kr\/PlayerN/]##body:style(width: 100vw !important; height: 100vh !important;)
 [$domain=/kimyoung\.co\.kr\/PlayerN/]##.player_content:style(width: 100vw !important; height: 100vh !important;)
@@ -23,13 +23,6 @@ kimyoung.co.kr##.bottom_bn2026052201
 ||cdn.channel.io^$domain=kimyoung.co.kr
 kimyoung.co.kr##+js(set, console.clear, noopFunc)
 ||whoas.xyz/live/track.js
-[$domain=/(new|ma|book)to\d+\.com/]##.basic-banner-4
-[$domain=/(new|ma|book)to\d+\.com/]##+js(aeld, keydown, event.ctrlKey)
-[$domain=/(new|ma|book)to\d+\.com/]##+js(aeld, contextmenu)
-[$domain=/(new|ma|book)to\d+\.com/]##body:style(user-select: auto !important;)
-/(new|ma|book)to\d+\.com\/js\/apms\.db\.js/
-/(new|ma|book)to\d+\.com\/data\/apms/
-youtube.com##.ytOverlayStickerHost
 comcbt.com##center:has(> div > a[href="https://cafe.naver.com/goodpapacbt/15212"])
 comcbt.com##div:has(> font:has-text("밀양금성컴퓨터학원"))
 comcbt.com###gscomad
