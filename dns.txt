@@ -8,8 +8,6 @@
 @@||gh-proxy.com^$important
 @@||*.top^$important
 @@||zrr.kr^$important
-||serv.ds.kakao.com^
-||whoas.xyz^
 ||shortformstats.kakao.com^
 ||play.kakao.com^
 ||analytics.dakgg.io^
